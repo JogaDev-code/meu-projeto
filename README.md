@@ -1,1 +1,1 @@
-# Meu primeiro script de Python eu criei esse py.
+# Alguns Scripts meus.
