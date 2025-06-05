@@ -1,1 +1,1 @@
-# Meu primeiro script de Python eu citei esse py.
+# Meu primeiro script de Python eu criei esse py.
