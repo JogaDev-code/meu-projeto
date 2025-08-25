@@ -1,1 +1,1 @@
-## Esses dois pythons são pequenos testes, para me introduzir do github.
+## Esses dois pythons são pequenos testes, para me introduzir no github.
